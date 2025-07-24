@@ -1,0 +1,39 @@
+{
+    "warning": {
+        "mustVC": "## 🔊 Vous devez être dans un canal vocal pour utiliser cette commande!",
+        "noPerms": "## 🚫 Je n'ai pas les permissions pour me connecter ou parler dans le canal vocal.",
+        "errorPlaying": "## ❌ Il y a eu une erreur en essayant de jouer la chanson.",
+        "noQueue": "## 📜 Il n'y a pas de chansons dans la file d'attente."
+    },
+
+    "command": {
+        "langChanged": "## 🌐 Langue changée en Français",
+        "pause": "## ⏸️ La lecture a été mise en pause.",
+        "resume": "## ▶️ La lecture a repris.",
+        "stop": "## 🛑 La lecture a été arrêtée.",
+        "skip": "## <:skipSong:1131407818294055004> Une chanson a été sautée dans la file d'attente.",
+        "skip_1": "## <:skipSong:1131407818294055004> ",
+        "skip_2": " chansons ont été sautées."
+    },
+    
+    "event": {
+        "addSong": "## <:addSong:1129096326030819500> Ajouté ",
+        "addPlaylist": "## <:addList:1131051763370303588> Ajouté la playlist "
+    },
+
+    "playMsg": {
+        "playing": "Lecture 🎵",
+        "duration": "Durée",
+        "requestedBy": "Demandé par",
+        "skippedBy": "Chanson sautée par",
+        "stoppedBy": "File d'attente arrêtée par",
+        "songs": "Chansons"
+    },
+
+    "emotes": {
+        "pause": "<:wPause:1124014509284143235>",
+        "skip": "<:wSkip:1124912593153294426>",
+        "stop": "<:wStop:1124014543195095050>",
+        "autoplay": "<:autoplay:1182480223405609071>"
+    }
+}
