@@ -1,0 +1,39 @@
+{
+    "warning": {
+        "mustVC": "## 🔊 You must be in a voice channel to use this command!",
+        "noPerms": "## 🚫 I don't have permissions to connect or speak in the voice channel.",
+        "errorPlaying": "## ❌ There was an error trying to play the song.",
+        "noQueue": "## 📜 There are no songs in the queue."
+    },
+
+    "command": {
+        "langChanged": "## 🌐 Language changed to English",
+        "pause": "## ⏸️ Playback has been paused.",
+        "resume": "## ▶️ Playback has been resumed.",
+        "stop": "## 🛑 Playback has been stopped.",
+        "skip": "## <:skipSong:1131407818294055004> A song has been skipped in the queue.",
+        "skip_1": "## <:skipSong:1131407818294055004> ",
+        "skip_2": " songs have been skipped."
+    },
+    
+    "event": {
+        "addSong": "## <:addSong:1129096326030819500> Added ",
+        "addPlaylist": "## <:addList:1131051763370303588> Added the playlist "
+    },
+
+    "playMsg": {
+        "playing": "Playing 🎵",
+        "duration": "Duration",
+        "requestedBy": "Requested by",
+        "skippedBy": "Song skipped by",
+        "stoppedBy": "Queue stopped by",
+        "songs": "Songs"
+    },
+
+    "emotes": {
+        "pause": "<:wPause:1124014509284143235>",
+        "skip": "<:wSkip:1124912593153294426>",
+        "stop": "<:wStop:1124014543195095050>",
+        "autoplay": "<:autoplay:1182480223405609071>"
+    }
+}
