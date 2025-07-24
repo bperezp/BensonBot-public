@@ -1,0 +1,46 @@
+{
+    "warning": {
+        "mustVC": "## 🔊 ¡Debes estar en un canal de voz para usar este comando!",
+        "noPerms": "## 🚫 No tengo permisos para conectarme o hablar en el canal de voz.",
+        "errorPlaying": "## ❌ Hubo un error al intentar reproducir la canción.",
+        "noQueue": "## 📜 No hay ninguna canción en la cola.",
+        "noShuffle": "## 🔀 No hay suficientes canciones en la cola para mezclar."
+    },
+
+    "command": {
+        "langChanged": "## 🌐 Idioma cambiado a Español",
+        "pause": "## ⏸️ La reproducción ha sido pausada.",
+        "resume": "## ▶️ La reproducción ha sido reanudada.",
+        "stop": "## 🛑 La reproducción ha sido detenida.",
+        "skip": "## <:skipSong:1131407818294055004> Se ha saltado una canción de la cola.",
+        "skip_1": "## <:skipSong:1131407818294055004> Se han saltado ",
+        "skip_2": " canciones.",
+        "shuffle": "## 🔀 Se ha mezclado la cola de canciones.",
+        "autoplayE": "## 🔁 Autoplay ha sido habilitado.",
+        "autoplayD": "## 🔁 Autoplay ha sido deshabilitado."
+    },
+
+    "event": {
+        "addSong": "## <:addSong:1129096326030819500> Se ha añadido ",
+        "addPlaylist": "## <:addList:1131051763370303588> Se ha añadido la playlist "
+    },
+
+    "playMsg": {
+        "playing": "Reproduciendo 🎵",
+        "duration": "Duración",
+        "requestedBy": "Solicitado por",
+        "skippedBy": "Canción saltada por",
+        "stoppedBy": "Cola detenida por",
+        "songs": "Canciones",
+        "resumedBy": "Reanudado por",
+        "pausedBy": "Pausado por"
+    },
+
+    "emotes": {
+        "resume": "<:wResume:1124014509284143235>",
+        "pause": "<:wPause:1124014438299750510>",
+        "skip": "<:wSkip:1124912593153294426>",
+        "stop": "<:wStop:1124014543195095050>",
+        "autoplay": "<:autoplay:1182480223405609071>"
+    }
+}
